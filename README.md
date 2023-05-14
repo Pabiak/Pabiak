@@ -8,12 +8,15 @@ Beyond coding, I have a passion for exploring new technologies and staying up-to
 
 ## Technologies that I use 🛠️
 
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
-![Next](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)
-![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg)
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
-![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)
+## Technologies that I use
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30"/>
+
 
 Warm regards! 😊
