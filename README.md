@@ -16,5 +16,3 @@ Beyond coding, I have a passion for exploring new technologies and staying up-to
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30"/>
 </div>
-
-Warm regards! 😊
