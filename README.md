@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a Full Stack Developer intern at Arlemi. Currently, I'm studying Applied Computer Science at Poznań University of Life Sciences 🎓 I'm fascinated by the world of technology and always eager to take on new challenges. 💻💪
+I'm a Frontend Developer intern at Arlemi. Currently, I'm studying Applied Computer Science at Poznań University of Life Sciences 🎓 I'm fascinated by the world of technology and always eager to take on new challenges. 💻💪
 
 My skills encompass both front-end and back-end development. I enjoy creating beautiful and interactive user interfaces, but I'm also intrigued by the process of building efficient and scalable systems. 🌟🚀
 
@@ -23,4 +23,8 @@ Beyond coding, I have a passion for exploring new technologies and staying up-to
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Sass" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Sass" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Sass" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="30" height="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
 </div>
