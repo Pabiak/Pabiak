@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a Frontend Developer intern at Arlemi. Currently, I'm studying Applied Computer Science at Poznań University of Life Sciences 🎓 I'm fascinated by the world of technology and always eager to take on new challenges. 💻💪
+I'm a Frontend Developer at Arlemi. Currently, I'm studying Applied Computer Science at Poznań University of Life Sciences 🎓 I'm fascinated by the world of technology and always eager to take on new challenges. 💻💪
 
 My skills encompass both front-end and back-end development. I enjoy creating beautiful and interactive user interfaces, but I'm also intrigued by the process of building efficient and scalable systems. 🌟🚀
 
