@@ -6,7 +6,7 @@ My skills encompass both front-end and back-end development. I enjoy creating be
 
 Beyond coding, I have a passion for exploring new technologies and staying up-to-date with the latest advancements. 🌱 I believe that continuous learning and growth are key to reaching new heights. In my free time, I also enjoy diving into thrilling crime novels, challenging my mind with Rubik's Cubes, and hitting the gym to stay fit and active. 📚🧩🏋️‍♀️
 
-Currently, I'm primarily working on front-end development using TypeScript, React and Remix.
+Currently, I'm primarily working on Frontend development using TypeScript, React and Remix.
 ## Technologies I use 💻🛠️
 
 <div>
